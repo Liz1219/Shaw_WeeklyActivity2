@@ -1,26 +1,21 @@
 ---
-output:
-  html_notebook: default
-  html_document: default
----
-
 title: "Markdown Schedule"
+subtitle: "Week 3 Activity"
 author: "Elizabeth Shaw"
-date: "September 15, 2024"
-output:
-  html_document:
-    df_print: paged
-subtitle: Week 3 Activity
+date: September 15, 2024
+output: html_notebook
 ---
 
-### [GD210]
+### GD210 Introduction to User Experience
  This semester I am taking introduction to user experience. This course provides an overview of the basic skills used in user experience research and strategies for product design.
 ![The 7 Factors that Influence User Experience](UXimage2.jpg)
+https://www.interaction-design.org/literature/topics/ux-design?srsltid=AfmBOopGTF0PAkEOUzvaPfSHUch-gT9DhW4G42oUpICO3utV5R5F7iK4
 
 
 
 
-### [New York Vet Show]
+
+### New York Vet Show
 
 I will be attending New York Vet Show later this month. This conference provides e with opportunities for professional learning and development in my role as hospital manager for a veterinary office. It also is a great way for me to meet people in the industry to network and make connections with other veterinary professionals.
 
@@ -31,9 +26,9 @@ I will be attending New York Vet Show later this month. This conference provides
 https://newyork.vetshow.com/
 
 
-### [Yoga]
+### Yoga
 
-A hobby I enjoy participating in is yoga classes. While I do enjoy doing yoga at home as well, the classes give me an opportunity to connect with other people who enjoy the same activity and get help improving my form and learning new positions from the instructor. I have found practicing yoga to have both physical and mental benefits for me. Recently I have not been able to do as much due to a knee injury but am looking forward to getting back to my usual schedule once I have recovered from my knee surgery.
+A hobby I enjoy participating in is yoga classes. While I do enjoy doing yoga at home as well, the classes give me an opportunity to connect with other people who enjoy the same activity and get help improving my form and learning new positions from the instructor. I have found practicing yoga to have both physical and mental benefits for me. I usually go to a yoga class once a week, but recently I have not been able to do as much due to a knee injury. I am looking forward to getting back to my usual schedule once I have recovered from my knee surgery.
 
 ![https://www.everydayyoga.com/blogs/guides/yoga-meditation](yoga.jpg)
 
