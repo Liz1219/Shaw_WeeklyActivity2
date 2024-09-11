@@ -1,0 +1,25 @@
+---
+output:
+  html_notebook: default
+  html_document: default
+---
+
+title: "Markdown Schedule"
+author: "Elizabeth Shaw"
+date: "September 15, 2024"
+output:
+  html_document:
+    df_print: paged
+subtitle: Week 3 Activity
+---
+
+
+
+
+### [New York Vet Show]
+
+I will be attending New York Vet Show later this month. This conference provides e with opportunities for professional learning and development in my role as hospital manager for a veterinary office. It also is a great way for me to meet people in the industry to network and make connections with other veterinary professionals.
+![New York Vet Show](NewYorkVetShow.jpg)
+
+
+https://newyork.vetshow.com/
